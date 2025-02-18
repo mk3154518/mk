@@ -18,5 +18,11 @@
 <li>The generated password is shuffled to increase randomness.</li>
 </ul>
 
+<h2>Usage Example</h2>
+![Screenshot 2025-02-18 113352](https://github.com/user-attachments/assets/ed0051c5-4fc8-46b7-b17e-4f8fa6d118f5)
+
+<h2>Requirements</h2>
+<ul><li>Python 3.x</li>
+<li>No additional dependencies</li></ul>
 
 
