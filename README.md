@@ -19,9 +19,7 @@
 </ul>
 
 <h2>Usage Example</h2>
-![Screenshot 2025-02-18 113352](https://github.com/user-attachments/assets/3944a56d-f725-4feb-a455-e36686c55879)
-
-
+![Screenshot 2025-02-18 113352](https://github.com/user-attachments/assets/29c8b70d-8d20-4da6-b843-ad5162ad4d36)
 
 <h2>Requirements</h2>
 <ul><li>Python 3.x</li>
