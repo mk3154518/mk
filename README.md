@@ -19,7 +19,8 @@
 </ul>
 
 <h2>Usage Example</h2>
-![Screenshot 2025-02-18 113352](https://github.com/user-attachments/assets/3ab085cb-b2f6-4170-b112-5c73694801a1)
+![Screenshot 2025-02-18 113352](https://github.com/user-attachments/assets/3944a56d-f725-4feb-a455-e36686c55879)
+
 
 
 <h2>Requirements</h2>
