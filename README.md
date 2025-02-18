@@ -19,7 +19,7 @@
 </ul>
 
 <h2>Usage Example</h2>
-![Code Image](Screenshot 2025-02-18 113352.png)
+![Code Image](\Screenshot 2025-02-18 113352.png)
 
 
 
