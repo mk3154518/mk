@@ -19,8 +19,7 @@
 </ul>
 
 <h2>Usage Example</h2>
-![Code Image](\Screenshot 2025-02-18 113352.png)
-
+![Image](https://raw.githubusercontent.com/mk3154518/password-generator/refs/heads/main/Screenshot%202025-02-18%20113352.png)
 
 
 
