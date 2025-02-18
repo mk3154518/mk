@@ -19,7 +19,7 @@
 </ul>
 
 <h2>Usage Example</h2>
-![img alt]{![Screenshot 2025-02-18 113352](https://github.com/user-attachments/assets/0558bc30-5c0d-46d0-a522-65849deb98ad)}
+![Screenshot 2025-02-18 113352](https://github.com/user-attachments/assets/0558bc30-5c0d-46d0-a522-65849deb98ad)
 
 
 
