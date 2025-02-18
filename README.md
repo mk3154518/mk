@@ -19,7 +19,8 @@
 </ul>
 
 <h2>Usage Example</h2>
-<img src="C:\Users\mmuke\OneDrive\Pictures\Screenshots\Screenshot 2025-02-18 113352.png" alt="Code Image" width="250">
+![Screenshot 2025-02-18 113352](https://github.com/user-attachments/assets/7150798d-2cf0-4dd5-a463-2975ce97715d)
+
 
 <h2>Requirements</h2>
 <ul><li>Python 3.x</li>
