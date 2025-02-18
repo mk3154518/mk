@@ -19,7 +19,7 @@
 </ul>
 
 <h2>Usage Example</h2>
-![Screenshot 2025-02-18 113352](https://github.com/user-attachments/assets/c0409e05-3fda-4a36-a836-1329abd0a2ea)
+![Code Image](C:\Project\password-generator\Screenshot 2025-02-18 113352.png)
 
 
 
