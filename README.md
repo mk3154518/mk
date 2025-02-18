@@ -1,4 +1,4 @@
-# mk
+# Password-generator
 <h1>PyPassword Generator 🔑</h1>
 
 <p>A simple and interactive Python-based Password Generator that allows users to create secure passwords with a mix of letters, numbers, and symbols.</p>
