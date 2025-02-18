@@ -19,7 +19,8 @@
 </ul>
 
 <h2>Usage Example</h2>
-![Alt Text](C:\Users\mmuke\OneDrive\Pictures\Screenshots\Screenshot 2025-02-18 113352.png)
+![Screenshot 2025-02-18 113352](https://github.com/user-attachments/assets/c0409e05-3fda-4a36-a836-1329abd0a2ea)
+
 
 
 
